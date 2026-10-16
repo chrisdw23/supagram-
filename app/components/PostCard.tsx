@@ -4,7 +4,7 @@ import { useState } from "react";
 import Image from "next/image";
 import { PostCardProps } from "../types";
 import { getTimeAgo } from "../utils/time";
-import { HeartIcon } from "./Hearticon";
+import { HeartIcon } from "./HeartIcon";
 
 const DEFAULT_AVATAR = "/icon.jpg";
 
